@@ -1,0 +1,3 @@
+.netlify/
+package*
+node_modules
